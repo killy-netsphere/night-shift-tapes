@@ -63,6 +63,10 @@ nemotron-3-120b, qwen3.8-27b — five runs per dilemma per frame.
   re-read all 25 quiz transcripts in full and found the six.
 - **No number in this bundle was reviewed by a human.** Wherever an earlier
   draft said "by hand," read "by a model reading the full text."
+- The technical work — the engine, the world, the classifiers, the renders,
+  the analysis — was built and run by Claude Code. The author cannot code
+  and says so; the author directed the study, made every decision, and
+  wrote the piece.
 
 ## What is withheld, and why
 
