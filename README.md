@@ -108,4 +108,6 @@ and not counted.
 
 ## License
 
-[to be set by the author]
+CC0 1.0 Universal — this belongs to everyone. Take it, remix it, build on
+it, no credit required (though a link back is always appreciated). The
+generator is not released, for the reason above.
