@@ -1,0 +1,184 @@
+{
+ "probe_plain_n5": {
+  "NS-D-05": {
+   "gemma-4-31b": {
+    "B": 5
+   },
+   "muse-glimmer-30b": {
+    "B": 4,
+    "A": 1
+   },
+   "nemotron-3-120b": {
+    "A": 5
+   },
+   "qwen3.6-35b": {
+    "A": 5
+   },
+   "qwen3.8-27b": {
+    "A": 2
+   }
+  },
+  "NS-D-10": {
+   "gemma-4-31b": {
+    "B": 4,
+    "A": 1
+   },
+   "muse-glimmer-30b": {
+    "B": 5
+   },
+   "nemotron-3-120b": {
+    "A": 5
+   },
+   "qwen3.6-35b": {
+    "A": 5
+   },
+   "qwen3.8-27b": {
+    "A": 5
+   }
+  },
+  "NS-K5": {
+   "gemma-4-31b": {
+    "NONE": 5
+   },
+   "muse-glimmer-30b": {
+    "NONE": 4,
+    "B": 1
+   },
+   "nemotron-3-120b": {
+    "NONE": 5
+   },
+   "qwen3.6-35b": {
+    "NONE": 5
+   },
+   "qwen3.8-27b": {
+    "NONE": 4,
+    "A": 1
+   }
+  },
+  "NS-N8": {
+   "gemma-4-31b": {
+    "B": 1,
+    "A": 4
+   },
+   "muse-glimmer-30b": {
+    "B": 5
+   },
+   "nemotron-3-120b": {
+    "B": 4,
+    "BOTH": 1
+   },
+   "qwen3.6-35b": {
+    "B": 5
+   },
+   "qwen3.8-27b": {
+    "B": 5
+   }
+  },
+  "NS-N9": {
+   "gemma-4-31b": {
+    "B": 5
+   },
+   "muse-glimmer-30b": {
+    "A": 5
+   },
+   "nemotron-3-120b": {
+    "A": 3,
+    "B": 2
+   },
+   "qwen3.6-35b": {
+    "B": 5
+   },
+   "qwen3.8-27b": {
+    "B": 3,
+    "A": 2
+   }
+  }
+ },
+ "probe_whyfirst_n1": {
+  "NS-D-05": {
+   "gemma-4-31b": {
+    "A": 1
+   },
+   "muse-glimmer-30b": {
+    "B": 1
+   },
+   "nemotron-3-120b": {
+    "A": 1
+   },
+   "qwen3.6-35b": {
+    "A": 1
+   },
+   "qwen3.8-27b": {
+    "A": 1
+   }
+  },
+  "NS-D-10": {
+   "gemma-4-31b": {
+    "BOTH": 1
+   },
+   "muse-glimmer-30b": {
+    "B": 1
+   },
+   "nemotron-3-120b": {
+    "A": 1
+   },
+   "qwen3.6-35b": {
+    "NONE": 1
+   },
+   "qwen3.8-27b": {
+    "A": 1
+   }
+  },
+  "NS-K5": {
+   "gemma-4-31b": {
+    "NONE": 1
+   },
+   "muse-glimmer-30b": {
+    "NONE": 1
+   },
+   "nemotron-3-120b": {
+    "NONE": 1
+   },
+   "qwen3.6-35b": {
+    "A": 1
+   },
+   "qwen3.8-27b": {
+    "NONE": 1
+   }
+  },
+  "NS-N8": {
+   "gemma-4-31b": {
+    "A": 1
+   },
+   "muse-glimmer-30b": {
+    "B": 1
+   },
+   "nemotron-3-120b": {
+    "B": 1
+   },
+   "qwen3.6-35b": {
+    "B": 1
+   },
+   "qwen3.8-27b": {
+    "A": 1
+   }
+  },
+  "NS-N9": {
+   "gemma-4-31b": {
+    "B": 1
+   },
+   "muse-glimmer-30b": {
+    "A": 1
+   },
+   "nemotron-3-120b": {
+    "A": 1
+   },
+   "qwen3.6-35b": {
+    "B": 1
+   },
+   "qwen3.8-27b": {
+    "A": 1
+   }
+  }
+ }
+}
