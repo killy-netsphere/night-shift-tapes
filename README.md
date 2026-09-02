@@ -4,7 +4,7 @@ The tapes, numbers, and method behind the article *A question is not a
 choice* — five local AI models given the same five dilemmas two ways: as a
 written quiz, and as one lived night at a county emergency desk.
 
-Article: [link]
+Article: https://x.com/net_termina/status/2095172342368338267
 
 ## What's here
 
